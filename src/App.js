@@ -1,8 +1,7 @@
 import "./App.css";
 import { ethers } from "ethers";
-// import { useEffect, useState, useCallback } from "react";
-import EtherCalculator from "./contracts/EtherCalculator.sol/EtherCalculator.json";
 import React, { useEffect, useState } from 'react';
+import EtherCalculator from "./contracts/EtherCalculator.sol/EtherCalculator.json";
 
 const contractAddress = '0x5FbDB2315678afecb367f032d93F642f64180aa3';
 const contractAbi = [

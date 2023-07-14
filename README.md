@@ -10,7 +10,7 @@ The component defines two functions, `handleDeposit` and `handleWithdraw`, to ha
 ### Installation
 **Step 1:** First, make the clone of the respository by using following command.          +
 ```
-git clone "link of the respository"
+git clone https://github.com/lavanishchaudhary/Smart-Contract-Management---ETH-AVAX.git
 ```
 
 **Step 2:** Open your terminal or command prompt and navigate to the directory where you want to create your project.

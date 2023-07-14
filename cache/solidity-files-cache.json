@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\College\\metacrafters\\Eth-Proof-Intermediate-Module-2\\contracts\\EtherCalculator.sol": {
+      "lastModificationDate": 1689338332333,
+      "contentHash": "2e8d12fab29c674041497a8838df7c1d",
+      "sourceName": "contracts/EtherCalculator.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "EtherCalculator"
+      ]
+    }
+  }
+}
